@@ -1,4 +1,8 @@
-"""TBD Module description"""
+"""
+Runs the FizzBuzz application: Asks the user for an integer
+input and returns "Fizz" if divisible by 3, "Buzz" if divisible
+by 5, "FizzBuzz" if divisible by both, and the integer otherwise.
+"""
 
 # ----------------------------------------------------------------------------------------------
 
