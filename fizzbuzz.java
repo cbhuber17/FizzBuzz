@@ -58,7 +58,7 @@ public class FizzBuzz {
      * This function returns true if the given integer is positive (i.e., greater than or equal to zero),
      * and false otherwise.
      *
-     * @param iNum_ the integer to be checked for postitivity
+     * @param iNum_ the integer to be checked for positivity
      * @return true if the given integer is positive, false otherwise
      */
     public static boolean check_number(int iNum_)
